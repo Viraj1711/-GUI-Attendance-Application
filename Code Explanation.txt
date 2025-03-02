@@ -1,0 +1,6 @@
+SQLite Database:
+The application uses SQLite to store attendance records. It creates a table attendance with columns: id, name, date, and status.
+Tkinter GUI:
+The GUI has a text input to enter the student's name and two buttons: one to mark attendance and another to view attendance records.
+When you click "Mark Attendance," the program stores the name, current date/time, and marks the status as "Present."
+The "View Attendance Records" button opens a new window that lists all attendance records.
